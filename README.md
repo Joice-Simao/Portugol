@@ -8,7 +8,7 @@
 
 * **Variável** é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. Para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos.
 
-* **Estrutura de Decisão** examina uma ou mais condições e decide quais instruções serão executadas dependendo se a condição foi ou não foi.
+* **Estrutura condicional** examina uma ou mais condições e decide quais instruções serão executadas dependendo se a condição foi ou não foi.
 
 * **Estrutura de Repetição** estruturas que permitem a execução de instruções repetidas vezes, até que uma condição seja atingida.
 
